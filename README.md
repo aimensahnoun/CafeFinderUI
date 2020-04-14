@@ -6,7 +6,7 @@ UI Design done by :https://dribbble.com/ClaireChang
 
 App Result:
 
-![](sreenshot.jpg)
+![](https://github.com/aimensahnoun/CafeFinderUI/blob/master/screenshot.jpg?raw=true)
 
 
 PS: everything in this app is hardcoded
